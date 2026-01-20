@@ -35,3 +35,7 @@ patterns.
 1. Install required libraries:
 ```bash
 pip install pandas matplotlib
+
+The dataset used in this project was provided by the instructor.
+Users can place the dataset files inside the `data/` directory to run the code.
+
